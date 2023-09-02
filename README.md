@@ -1,4 +1,4 @@
-# Royaltysubs (Internet services)
+# Telecom Shop
 
 - Built with [Remix](https://remix.run/docs)
 
